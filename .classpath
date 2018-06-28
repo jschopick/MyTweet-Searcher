@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="tweetSearcher/src/main/java"/>
+	<classpathentry kind="src" path="tweetSearcher/src/test/java"/>
+	<classpathentry kind="lib" path="tweetSearcher/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="tweetSearcher/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="tweetSearcher/bin/target/lucene-searcher-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="tweetSearcher/target/lucene-searcher-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="tweetSearcher/target/classes"/>
+</classpath>
